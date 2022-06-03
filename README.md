@@ -1,6 +1,6 @@
 ## Hello, I'm Kenneth.
 
-<details open>
+<details>
 <summary>Here's a little more about me:</summary>
 <br>
 test
